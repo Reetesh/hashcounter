@@ -1,0 +1,6 @@
+takes twitter-provided archive and calculated the occurance of a certain hastag in a given year
+
+usage:
+
+python hashcount.py "#ReeMov" 2013
+python hashcount.py ReeMov 2013
